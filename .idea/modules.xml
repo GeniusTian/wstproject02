@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataStructures/DataStructures.iml" filepath="$PROJECT_DIR$/DataStructures/DataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUC/JUC.iml" filepath="$PROJECT_DIR$/JUC/JUC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyBatis/MyBatis.iml" filepath="$PROJECT_DIR$/MyBatis/MyBatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring01/Spring01.iml" filepath="$PROJECT_DIR$/Spring01/Spring01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringWeb/SpringWeb.iml" filepath="$PROJECT_DIR$/SpringWeb/SpringWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringWeb01/SpringWeb01.iml" filepath="$PROJECT_DIR$/SpringWeb01/SpringWeb01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zookeeper0508/Zookeeper0508.iml" filepath="$PROJECT_DIR$/Zookeeper0508/Zookeeper0508.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flume-0508/flume-0508.iml" filepath="$PROJECT_DIR$/flume-0508/flume-0508.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guli/guli.iml" filepath="$PROJECT_DIR$/guli/guli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase-0508/hbase-0508.iml" filepath="$PROJECT_DIR$/hbase-0508/hbase-0508.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hdfswst0508/hdfswst0508.iml" filepath="$PROJECT_DIR$/hdfswst0508/hdfswst0508.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc.iml" filepath="$PROJECT_DIR$/jdbc/jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-0508/kafka-0508.iml" filepath="$PROJECT_DIR$/kafka-0508/kafka-0508.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mr0508/mr0508.iml" filepath="$PROJECT_DIR$/mr0508/mr0508.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wstproject02.iml" filepath="$PROJECT_DIR$/wstproject02.iml" />
+    </modules>
+  </component>
+</project>

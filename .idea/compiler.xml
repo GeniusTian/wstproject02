@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="MyBatis" />
+        <module name="Zookeeper0508" />
+        <module name="hbase-0508" />
+        <module name="MarvenDemo" />
+        <module name="Spring01" />
+        <module name="guli" />
+        <module name="maven" />
+        <module name="hdfswst0508" />
+        <module name="flume-0508" />
+        <module name="mr0508" />
+        <module name="SpringWeb01" />
+        <module name="SpringWeb" />
+        <module name="kafka-0508" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="flume-0508" target="1.7" />
+      <module name="guli" target="1.8" />
+      <module name="hbase-0508" target="1.7" />
+      <module name="hdfswst0508" target="1.8" />
+      <module name="kafka-0508" target="1.8" />
+      <module name="marvendemo" target="1.8" />
+      <module name="MarvenDemo" target="1.5" />
+      <module name="maven" target="1.5" />
+      <module name="maven01" target="1.5" />
+      <module name="maven02" target="1.5" />
+      <module name="maven03" target="1.5" />
+      <module name="MavenDemo" target="1.5" />
+      <module name="mavenDemo" target="1.5" />
+      <module name="MavenWebDemo" target="1.7" />
+      <module name="mr0508" target="1.8" />
+      <module name="MyBatis" target="1.8" />
+      <module name="Spring01" target="1.8" />
+      <module name="SpringWeb" target="1.8" />
+      <module name="SpringWeb01" target="1.8" />
+      <module name="SpringWeb02" target="1.7" />
+      <module name="Web01" target="1.7" />
+      <module name="Zookeeper0508" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+com\atguigu\hbase\mr\ReadDriver.class
+com\atguigu\hbase\mr\ReadReducer.class
+com\atguigu\hbase\mr\ReadMapper.class
+com\atguigu\hbase\api\HBaseUtil.class

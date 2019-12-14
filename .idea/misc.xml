@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/MavenWebDemo" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringWeb" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringWeb01" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringWeb02" />
+    <file type="web" url="file://$PROJECT_DIR$/Web01" />
+    <type id="Spring" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/MarvenDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/maven/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring01/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringWeb/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringWeb01/pom.xml" />
+        <option value="$PROJECT_DIR$/MyBatis/pom.xml" />
+        <option value="$PROJECT_DIR$/hdfswst0508/pom.xml" />
+        <option value="$PROJECT_DIR$/mr0508/pom.xml" />
+        <option value="$PROJECT_DIR$/Zookeeper0508/pom.xml" />
+        <option value="$PROJECT_DIR$/guli/pom.xml" />
+        <option value="$PROJECT_DIR$/flume-0508/pom.xml" />
+        <option value="$PROJECT_DIR$/hbase-0508/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka-0508/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

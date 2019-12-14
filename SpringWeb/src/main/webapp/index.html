@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script type="text/javascript" src="/SpringWeb/script/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $("#a1").click(function () {
+                var url = $(this).attr("href");
+                $.ajax({
+                    url: url,
+                    type: "GET",
+                    success: function (data) {
+                        console.log(data);
+                    }
+                });
+                //                取消跳转
+                return false;
+            });
+        });
+    </script>
+    <title>静态页面</title>
+</head>
+<body>
+<h1>静态页面</h1>
+<a href="hello">Hello Springmvc </a>
+<form action="/SpringWeb/testRequest" method="get">
+    <input name="username" value="王适天"><br/>
+    <input name="age" value="16"><br/>
+    <input type="submit" value="提交">
+</form>
+<a href="/SpringWeb/response/handle1">获取响应</a><br/>
+<a href="/SpringWeb/response/handle2">请求转发到指定jsp页面</a><br/>
+<a href="/Springweb/response/sendAjax">发送ajax请求</a><br/>
+
+</body>
+</html>
